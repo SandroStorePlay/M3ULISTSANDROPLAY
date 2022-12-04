@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/FILMES/TERROR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/SAGAS-FILMES.png" group-title="CATEGORIAS" , SAGAS | ADICIONADOS
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/FILMES/COLECAO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/SAGAS-FILMES.png" group-title="CATEGORIAS" , PEDIDOS | ADICIONADOS
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/SOLICITADOS-FILMES.png" group-title="CATEGORIAS" , PEDIDOS | ADICIONADOS
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/FILMES/PEDIDOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/LANCAMENTOS-FILMES.png" group-title="CATEGORIAS" , LACAMENTOS | ADICIONADOS
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/FILMES/LANCAMENTOS.m3u
