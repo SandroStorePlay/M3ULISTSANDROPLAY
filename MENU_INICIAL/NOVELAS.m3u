@@ -6,6 +6,9 @@ https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/
 #EXTINF:-1 tvg-id="" tvg-name="A Usurpadora" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/a-usurpadora.png" group-title="NOVELAS ANOS 1990-1999" , A Usurpadora
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/NOVELAS/A.USURPADORA.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="Cabocla" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/Caminho.das.indias.jpg" group-title="NOVELAS ANOS 2000-2009" , Caminho.das.indias
+https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/NOVELAS/CAMINHOS.DAS.INDIAS.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="Cabocla" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/cabocla.png" group-title="NOVELAS ANOS 2000-2009" , Cabocla
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/NOVELAS/CABOCLA.m3u
 
@@ -65,6 +68,9 @@ https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/
 
 #EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/NOVELAS/Prova.De.Amor.png" group-title="NOVELAS ANOS 2000-2009" , Prova de Amor
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/NOVELAS/PROVA.DE.AMOR.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="Totalmente Demais" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/Salve.Jorge.jpg" group-title="NOVELAS ANOS 2010-2022" , Salve Jorge
+https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/NOVELAS/SALVE.JORGE.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Totalmente Demais" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/totalmente-demais.png" group-title="NOVELAS ANOS 2010-2022" , Totalmente Demais
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/NOVELAS/TOTALMENTE.DEMAIS.m3u
