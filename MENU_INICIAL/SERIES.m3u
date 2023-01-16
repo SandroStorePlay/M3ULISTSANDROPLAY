@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/thelastofus.jpg" group-title="HBO Max", The Last of us
+#EXTINF:-1 tvg-id="" tvg-name="thelastofus" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/thelastofus.jpg" group-title="HBO Max", The Last of us
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/SERIES/THE.LAS.OF.US.m3u
-#EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/A.CASA.DO.DRAGAO.jpg" group-title="HBO Max", A Casa do Dragao
+#EXTINF:-1 tvg-id="" tvg-name="A.CASA.DO.DRAGAO" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/A.CASA.DO.DRAGAO.jpg" group-title="HBO Max", A Casa do Dragao
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/SERIES/A.CASA.DO.DRAGAO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/MALDOSAS.jpg" group-title="HBO Max", Maldosas
+#EXTINF:-1 tvg-id="" tvg-name="MALDOSAS" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/MALDOSAS.jpg" group-title="HBO Max", Maldosas
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/SERIES/MALDOSAS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/OS.ORIGINAIS.jpg" group-title="HBO Max", Os Originais
+#EXTINF:-1 tvg-id="" tvg-name="OS.ORIGINAIS" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/OS.ORIGINAIS.jpg" group-title="HBO Max", Os Originais
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/SERIES/OS.ORIGINAIS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="GameofThrones" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/GameofThrones.png" group-title="HBO Max", Game of Thrones
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/SERIES/GAME.OF.THRONES.m3u
